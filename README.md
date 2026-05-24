@@ -15,6 +15,6 @@ This project is developed using C programming language to manage lost and found 
 
 ## Team Members
 - Chetana Yerraguntla
-- Maher Shaikh
 - Maya Kshirsagar
+- Maher Shaikh
 - Prachi Rathod
